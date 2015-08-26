@@ -1,0 +1,13 @@
+.git/
+.gitignore
+.idea/
+node_modules/
+test/
+typings/
+*.ts
+*spec.js
+*spec.js.map
+tslint.json
+tsd.json
+gulpfile.js
+.travis.yml
